@@ -1,0 +1,26 @@
+{
+  "pk3_sha256": "01d1c308d25433c71c88f739754b1ac5db884fb6ec121019644e7b804726e541",
+  "engine": "GZDoom 4.14.2",
+  "map": "Doom II MAP01",
+  "checks": [
+    "IDENTITY health_replaced=1 fruits=16 original_heals=0",
+    "IDENTITY fruit_heals=1 counter=1 sound=1",
+    "IDENTITY counts_at_full_health=1",
+    "IDENTITY variable_jump=1 short=40.50 full=112.50",
+    "IDENTITY enemy_launch=1 vz=10.0 launch_sound=1",
+    "IDENTITY corpse_moved=1 valid_sector=1",
+    "IDENTITY crash_pain=1 cooldown=18",
+    "IDENTITY pain_not_restarted=1",
+    "IDENTITY death_animation=1 frame=19 camera_fixed=1",
+    "ORIENTATION support_killed=1 bounced=1",
+    "ORIENTATION lateral=1 offset=90.0 camera_unchanged=1",
+    "ORIENTATION back_faces_camera=1 offset=180.0 camera_unchanged=1 mask_lower=1"
+  ],
+  "save_load": {
+    "confirmed": "visual screenshot: counter remains 7 after load",
+    "evidence": "counter-loaded.png"
+  },
+  "share_archive_matches": true,
+  "commercial_wads_in_archive": false,
+  "limits": "Native tests on MAP01, not a complete campaign playthrough."
+}

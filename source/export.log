@@ -1,0 +1,51 @@
+{
+  "idle": {
+    "original": "WillG",
+    "frames": 2,
+    "triangles": 732,
+    "model": 0,
+    "first_frame": 0
+  },
+  "walk": {
+    "original": "WillG",
+    "frames": 10,
+    "triangles": 732,
+    "model": 0,
+    "first_frame": 2
+  },
+  "jump": {
+    "original": "WillG",
+    "frames": 17,
+    "triangles": 732,
+    "model": 0,
+    "first_frame": 12
+  },
+  "fall": {
+    "original": "WillG",
+    "frames": 6,
+    "triangles": 732,
+    "model": 0,
+    "first_frame": 29
+  },
+  "land": {
+    "original": "WillG",
+    "frames": 5,
+    "triangles": 732,
+    "model": 0,
+    "first_frame": 35
+  },
+  "death": {
+    "original": "WillG",
+    "frames": 6,
+    "triangles": 732,
+    "model": 0,
+    "first_frame": 40
+  },
+  "spin": {
+    "original": "WiBlG",
+    "frames": 8,
+    "triangles": 638,
+    "model": 1,
+    "first_frame": 0
+  }
+}

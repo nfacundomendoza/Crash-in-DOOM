@@ -1,0 +1,88 @@
+Log started: 2026-10-13 23:39:08
+GZDoom version g4.14.2
+W_Init: Init WADfiles.
+adding D:/repos/Fusion/doom_crash/tools/gzdoom/gzdoom.pk3, 692 lumps
+adding D:/repos/Fusion/doom_crash/tools/gzdoom/game_support.pk3, 3308 lumps
+adding D:/SteamLibrary/steamapps/common/Ultimate Doom/base/doom2/DOOM2.WAD, 2919 lumps
+adding D:/SteamLibrary/steamapps/common/Ultimate Doom/rerelease/id24res.wad, 530 lumps
+adding D:/repos/Fusion/doom_crash/tools/gzdoom/game_widescreen_gfx.pk3, 214 lumps
+adding ./doom_crash/crash-in-doom.pk3, 67 lumps
+adding ./doom_crash/verification/checks.zip, 2 lumps
+S_Init: Setting up sound.
+I_InitInput
+I_StartupMouse
+I_StartupKeyboard
+I_StartupXInput
+I_StartupRawPS2
+I_StartupDirectInputJoystick
+Vulkan device: Radeon RX 570 Series
+Vulkan device type: discrete gpu
+Vulkan version: 1.3.260 (api) 2.0.279 (driver)
+Vulkan extensions: VK_KHR_16bit_storage VK_KHR_8bit_storage VK_KHR_bind_memory2 VK_KHR_buffer_device_address VK_KHR_copy_commands2 VK_KHR_create_renderpass2 VK_KHR_dedicated_allocation VK_KHR_depth_stencil_resolve VK_KHR_descriptor_update_template VK_KHR_device_group VK_KHR_draw_indirect_count VK_KHR_driver_properties VK_KHR_dynamic_rendering VK_KHR_external_fence VK_KHR_external_fence_win32 VK_KHR_external_memory VK_KHR_external_memory_win32 VK_KHR_external_semaphore VK_KHR_external_semaphore_win32 VK_KHR_format_feature_flags2 VK_KHR_fragment_shader_barycentric VK_KHR_get_memory_requirements2 VK_KHR_global_priority VK_KHR_imageless_framebuffer VK_KHR_image_format_list VK_KHR_maintenance1 VK_KHR_maintenance2 VK_KHR_maintenance3 VK_KHR_maintenance4 VK_KHR_map_memory2 VK_KHR_multiview VK_KHR_pipeline_executable_properties VK_KHR_pipeline_library VK_KHR_push_descriptor VK_KHR_relaxed_block_layout VK_KHR_sampler_mirror_clamp_to_edge VK_KHR_sampler_ycbcr_conversion VK_KHR_separate_depth_stencil_layouts VK_KHR_shader_atomic_int64 VK_KHR_shader_clock VK_KHR_shader_draw_parameters VK_KHR_shader_float16_int8 VK_KHR_shader_float_controls VK_KHR_shader_integer_dot_product VK_KHR_shader_non_semantic_info VK_KHR_shader_subgroup_extended_types VK_KHR_shader_subgroup_uniform_control_flow VK_KHR_shader_terminate_invocation VK_KHR_spirv_1_4 VK_KHR_storage_buffer_storage_class VK_KHR_swapchain VK_KHR_swapchain_mutable_format VK_KHR_synchronization2 VK_KHR_timeline_semaphore VK_KHR_uniform_buffer_standard_layout VK_KHR_variable_pointers VK_KHR_vulkan_memory_model VK_KHR_win32_keyed_mutex VK_KHR_workgroup_memory_explicit_layout VK_KHR_zero_initialize_workgroup_memory VK_EXT_4444_formats VK_EXT_attachment_feedback_loop_layout VK_EXT_calibrated_timestamps VK_EXT_color_write_enable VK_EXT_conditional_rendering VK_EXT_custom_border_color VK_EXT_depth_clamp_zero_one VK_EXT_depth_clip_control VK_EXT_depth_clip_enable VK_EXT_depth_range_unrestricted VK_EXT_descriptor_buffer VK_EXT_descriptor_indexing VK_EXT_device_address_binding_report VK_EXT_device_fault VK_EXT_dynamic_rendering_unused_attachments VK_EXT_extended_dynamic_state VK_EXT_extended_dynamic_state2 VK_EXT_extended_dynamic_state3 VK_EXT_external_memory_host VK_EXT_full_screen_exclusive VK_EXT_global_priority VK_EXT_global_priority_query VK_EXT_hdr_metadata VK_EXT_host_query_reset VK_EXT_image_robustness VK_EXT_image_view_min_lod VK_EXT_index_type_uint8 VK_EXT_inline_uniform_block VK_EXT_line_rasterization VK_EXT_load_store_op_none VK_EXT_memory_budget VK_EXT_memory_priority VK_EXT_mutable_descriptor_type VK_EXT_non_seamless_cube_map VK_EXT_pageable_device_local_memory VK_EXT_pipeline_creation_cache_control VK_EXT_pipeline_creation_feedback VK_EXT_primitive_topology_list_restart VK_EXT_private_data VK_EXT_provoking_vertex VK_EXT_queue_family_foreign VK_EXT_robustness2 VK_EXT_sampler_filter_minmax VK_EXT_sample_locations VK_EXT_scalar_block_layout VK_EXT_separate_stencil_usage VK_EXT_shader_atomic_float VK_EXT_shader_demote_to_helper_invocation VK_EXT_shader_image_atomic_int64 VK_EXT_shader_module_identifier VK_EXT_shader_stencil_export VK_EXT_shader_subgroup_ballot VK_EXT_shader_subgroup_vote VK_EXT_shader_viewport_index_layer VK_EXT_subgroup_size_control VK_EXT_texel_buffer_alignment VK_EXT_tooling_info VK_EXT_transform_feedback VK_EXT_vertex_attribute_divisor VK_EXT_ycbcr_image_arrays VK_AMD_buffer_marker VK_AMD_calibrated_timestamps VK_AMD_display_native_hdr VK_AMD_draw_indirect_count VK_AMD_gcn_shader VK_AMD_gpa_interface VK_AMD_gpu_shader_half_float VK_AMD_gpu_shader_int16 VK_AMD_memory_overallocation_behavior VK_AMD_mixed_attachment_samples VK_AMD_rasterization_order VK_AMD_shader_ballot VK_AMD_shader_core_properties VK_AMD_shader_core_properties2 VK_AMD_shader_early_and_late_fragment_tests VK_AMD_shader_explicit_vertex_parameter VK_AMD_shader_fragment_mask VK_AMD_shader_image_load_store_lod VK_AMD_shader_info VK_AMD_shader_trinary_minmax VK_GOOGLE_decorate_string VK_GOOGLE_hlsl_functionality1 VK_GOOGLE_user_type VK_VALVE_mutable_descriptor_type
+Max. texture size: 16384
+Max. uniform buffer range: -1
+Min. uniform buffer offset alignment: 16
+Resolution: 1920 x 1080
+I_Init: Setting up machine state.
+CPU speed: 3600 MHz
+CPU Vendor ID: GenuineIntel
+  Name: Intel(R) Core(TM) i3-9100F CPU @ 3.60GHz
+  Family 6, Model 158, Stepping 10
+  Features: SSE2 SSE3 SSSE3 SSE4.1 SSE4.2 AVX AVX2 F16C FMA3 BMI1 BMI2 HyperThreading
+V_Init: allocate screen.
+ST_Init: Init startup screen.
+Checking cmd-line parameters...
+S_InitData: Load sound definitions.
+G_ParseMapInfo: Load map definitions.
+Texman.Init: Init texture manager.
+ParseTeamInfo: Load team definitions.
+LoadActors: Load actor definitions.
+script parsing took 834.13 ms
+R_Init: Init Doom refresh subsystem.
+DecalLibrary: Load decals.
+M_Init: Init menus.
+P_Init: Init Playloop state.
+ParseSBarInfo: Loading custom status bar definition.
+D_CheckNetGame: Checking network game status.
+player 1 of 1 (1 nodes)
+
+----------------------------------------
+
+MAP01 - Entryway
+
+CRASH_STATE tic=0 x=-96.00 y=784.00 z=56.00 floor=56.00 vz=0.00 spin=0
+CRASH_STATE tic=10 x=-96.00 y=784.00 z=56.00 floor=56.00 vz=0.00 spin=0
+CRASH_CHECK hull=1 walls=16 sector=1
+CRASH_CHECK spin_damage=0 before=60 after=60
+CRASH_STATE tic=20 x=-96.00 y=784.00 z=56.00 floor=56.00 vz=0.00 spin=0
+CRASH_STATE tic=30 x=-96.00 y=784.00 z=56.00 floor=56.00 vz=0.00 spin=0
+CRASH_STATE tic=40 x=-96.00 y=784.00 z=56.00 floor=56.00 vz=0.00 spin=0
+CRASH_STATE tic=50 x=-96.00 y=784.00 z=56.00 floor=56.00 vz=0.00 spin=0
+CRASH_STATE tic=60 x=-96.00 y=784.00 z=56.00 floor=56.00 vz=0.00 spin=0
+CRASH_STATE tic=70 x=-96.00 y=784.00 z=56.00 floor=56.00 vz=0.00 spin=0
+chasecam ON
+CRASH_STATE tic=80 x=-96.00 y=784.00 z=56.00 floor=56.00 vz=0.00 spin=0
+CRASH_STATE tic=90 x=-96.00 y=811.95 z=56.00 floor=56.00 vz=0.00 spin=0
+CRASH_STATE tic=100 x=-96.00 y=866.07 z=47.00 floor=8.00 vz=-5.00 spin=0
+CRASH_STATE tic=110 x=-96.00 y=926.80 z=8.00 floor=8.00 vz=0.00 spin=0
+CRASH_STATE tic=120 x=-96.00 y=994.75 z=16.00 floor=16.00 vz=0.00 spin=0
+CRASH_STATE tic=130 x=-96.00 y=1058.73 z=51.00 floor=24.00 vz=4.00 spin=0
+Captured jump.png
+CRASH_STATE tic=140 x=-96.00 y=1098.82 z=46.00 floor=32.00 vz=-6.00 spin=0
+CRASH_STATE tic=150 x=-96.00 y=1098.82 z=32.00 floor=32.00 vz=0.00 spin=0
+CRASH_STATE tic=160 x=-96.00 y=1098.82 z=32.00 floor=32.00 vz=0.00 spin=0
+CRASH_STATE tic=170 x=-96.00 y=1098.82 z=32.00 floor=32.00 vz=0.00 spin=12
+Captured spin.png
+CRASH_STATE tic=180 x=-96.00 y=1098.82 z=32.00 floor=32.00 vz=0.00 spin=2
+CRASH_STATE tic=190 x=-96.00 y=1098.82 z=32.00 floor=32.00 vz=0.00 spin=0
+CRASH_STATE tic=200 x=-96.00 y=1098.82 z=32.00 floor=32.00 vz=0.00 spin=0
+CRASH_STATE tic=210 x=-116.69 y=1098.82 z=24.00 floor=24.00 vz=0.00 spin=0
+CRASH_STATE tic=220 x=-163.73 y=1098.82 z=16.00 floor=16.00 vz=0.00 spin=0
+CRASH_STATE tic=230 x=-225.02 y=1098.82 z=8.00 floor=8.00 vz=0.00 spin=0
+CRASH_STATE tic=240 x=-291.51 y=1098.82 z=8.00 floor=8.00 vz=0.00 spin=0
+CRASH_STATE tic=250 x=-337.31 y=1097.36 z=8.00 floor=8.00 vz=0.00 spin=0
+CRASH_STATE tic=260 x=-338.69 y=1090.46 z=8.00 floor=8.00 vz=0.00 spin=0
+CRASH_STATE tic=270 x=-340.48 y=1081.51 z=8.00 floor=8.00 vz=0.00 spin=0
+CRASH_STATE tic=280 x=-342.38 y=1071.99 z=8.00 floor=8.00 vz=0.00 spin=0
+CRASH_STATE tic=290 x=-344.32 y=1062.31 z=8.00 floor=8.00 vz=0.00 spin=0
+CRASH_STATE tic=300 x=-346.26 y=1052.60 z=8.00 floor=8.00 vz=0.00 spin=0

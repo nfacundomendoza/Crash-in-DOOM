@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "checks": {
+    "original_doom_collision_hull": true,
+    "native_walls_block_proposed_moves": true,
+    "spin_damages_visible_imp": true,
+    "wall_blocks_spin_damage": true,
+    "jump_has_upward_velocity": true,
+    "landed_after_jump": true,
+    "spin_key_activates_animation": true,
+    "no_script_runtime_errors": true,
+    "verification_actor_not_shipped": true
+  },
+  "map": "Doom II MAP01 Entryway",
+  "pk3_sha256": "6bd4b755432f7118a882c91de6b7c9d89db8c6b5fc68ec38341e18590658244b",
+  "limits": "Native engine tests on MAP01, not a complete playthrough or all maps."
+}

@@ -1,0 +1,2 @@
+user bool crash_thirdperson = true;
+user float crash_camera_distance = 110;

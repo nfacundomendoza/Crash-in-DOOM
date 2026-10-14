@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "checks": {
+    "supported_enemy_crushed": true,
+    "lateral_facing": true,
+    "back_facing": true,
+    "mask_lower": true,
+    "no_script_errors": true,
+    "delivery_matches": true
+  },
+  "pk3_sha256": "14d2f86fd0c5beed380efdbba4bdb8a1b39ddca353e36fde0216a7681eae05f6"
+}

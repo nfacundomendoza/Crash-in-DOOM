@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "checks": {
+    "crate_stomp_and_bounce": true,
+    "enemy_stomp_and_bounce": true,
+    "side_contact_does_not_stomp": true,
+    "air_steering_and_reversal": true,
+    "spin_audio_playing": true,
+    "native_collision_hull": true,
+    "original_spin_rate": true,
+    "no_script_errors": true,
+    "delivery_matches": true
+  },
+  "pk3_sha256": "3ed342f65c1ae7470fcfa6e5d91d93e3b510aabfaf78d0902aadc6ab0e91fd97",
+  "limits": "Native MAP01 tests and comparison against original GOOL code/data; no original-game side-by-side playtest."
+}

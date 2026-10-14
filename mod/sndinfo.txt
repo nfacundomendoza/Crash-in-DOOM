@@ -1,0 +1,31 @@
+crash/spin sounds/crash/spin.wav
+crash/cratebreak sounds/crash/crate-break.wav
+crash/akupickup sounds/crash/aku-pickup.wav
+$limit crash/spin 1
+$pitchshift crash/spin 0
+$pitchshift crash/cratebreak 0
+$pitchshift crash/akupickup 0
+crash/jump sounds/crash/jump.wav
+crash/hurt sounds/crash/hurt.wav
+crash/death sounds/crash/death.wav
+crash/launch sounds/crash/launch.wav
+crash/wumpa sounds/crash/wumpa.wav
+crash/oneup sounds/crash/oneup.wav
+crash/quiet sounds/crash/quiet.wav
+$limit crash/hurt 1
+$playeralias crash male *pain100 crash/hurt
+$playeralias crash male *pain75 crash/hurt
+$playeralias crash male *pain50 crash/hurt
+$playeralias crash male *pain25 crash/hurt
+$playeralias crash male *death crash/death
+$playeralias crash male *xdeath crash/death
+$playeralias crash male *gibbed crash/death
+$playeralias crash male *grunt crash/quiet
+$playeralias crash male *land crash/quiet
+$playeralias crash male *usefail crash/quiet
+$playeralias crash male *jump crash/jump
+$playeralias crash male *fist crash/launch
+
+crash/victory sounds/crash/victory.wav
+$pitchshift crash/victory 0
+$limit crash/victory 1

@@ -1,0 +1,10 @@
+GameInfo
+{
+    PlayerClasses = "CrashPlayer"
+    AddEventHandlers = "CrashCratePlacement", "CrashWumpaWorld"
+}
+DefaultMap
+{
+    AllowJump
+    NoCrouch
+}

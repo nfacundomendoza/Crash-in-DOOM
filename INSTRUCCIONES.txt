@@ -1,0 +1,45 @@
+﻿CRASH EN DOOM II - WINDOWS
+
+COMO JUGAR
+1. Copia DOOM2.WAD de tu propia instalacion de Doom II junto a JUGAR.cmd.
+   Alternativa: arrastra tu archivo DOOM2.WAD sobre JUGAR.cmd, sin copiarlo.
+2. Abre JUGAR.cmd.
+
+DONDE ENCONTRAR EL WAD
+En algunas instalaciones de Steam esta en:
+SteamLibrary\steamapps\common\Ultimate Doom\base\doom2\DOOM2.WAD
+La ubicacion puede variar. Busca DOOM2.WAD dentro de tu instalacion.
+Esta entrega no incluye el WAD comercial de Doom II.
+
+CONTROLES
+WASD: moverse. Mouse: mirar.
+Espacio: saltar.
+Ctrl o clic derecho: giro.
+E: abrir puertas y activar interruptores.
+Clic izquierdo: disparar las armas originales de Doom.
+1 a 7: seleccionar armas.
+F5: alternar primera y tercera persona.
+Esc: menu, opciones, guardar y cargar.
+F6 / F9: guardado y carga rápidos.
+V: baile de victoria.
+
+QUE INCLUYE Y COMO FUNCIONA
+GZDoom ejecuta Doom II y carga crash-in-doom.pk3 como mod.
+Doom conserva sus mapas, enemigos, objetos, armas, sonidos y música.
+Crash usa modelos, texturas y animaciones originales de Crash Bandicoot 1,
+convertidos desde los archivos de PlayStation.
+El mod agrega salto, giro con daño cercano y camara en tercera persona.
+Las paredes y puertas cerradas bloquean el giro.
+La física y las colisiones son de Doom: no es el controlador exacto de Crash.
+No se ejecuta Crash Bandicoot ni un emulador en paralelo.
+
+ARCHIVOS PERSONALES
+crash.ini: preferencias; se crea al jugar.
+saves/: partidas guardadas.
+last-run.log: registro para investigar errores.
+
+PROCEDENCIA
+Motor GZDoom 4.14.2:
+https://github.com/ZDoom/gzdoom/releases/tag/g4.14.2
+Las licencias del motor y sus dependencias se conservan en motor/licenses.zip.
+Los recursos de Crash proceden del juego original; no son de autoría del mod.

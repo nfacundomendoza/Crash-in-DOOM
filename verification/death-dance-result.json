@@ -1,0 +1,13 @@
+{
+  "checks": [
+    "FIX short_dance_active=1 voice=1",
+    "FIX short_dance_finished=1",
+    "FIX death_locked=1 animation_monotonic=1 last_frame=19 no_early_respawn=1"
+  ],
+  "native_level_restart_confirmed": true,
+  "input_during_death": "turn right, look up and use held; view stayed locked and restart waited for animation",
+  "dance_seconds": 1.4857142857142858,
+  "voice_original": "bdb0A",
+  "voice_pitch_reference": "s000002d.nsf GamOC PC2691, constant228=0x5ce; PC2693 plays constant108=bdb0A",
+  "pk3_sha256": "168b1df8692c565424b485f3bf15edc051b2c9b7e62212d67d24ef5ded82258c"
+}

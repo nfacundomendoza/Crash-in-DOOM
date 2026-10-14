@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "checks": {
+    "map01_valid_crates": true,
+    "map02_valid_crates": true,
+    "native_player_hull_preserved": true,
+    "native_walls_block_moves": true,
+    "spin_breaks_crate": true,
+    "crate_drops_mask": true,
+    "pickup_by_native_collision": true,
+    "orbit_attached": true,
+    "protection_expires": true,
+    "higher_jump_and_flip": true,
+    "spin_sound_playing": true,
+    "save_load_active_mask": true,
+    "no_script_errors": true,
+    "test_fixture_not_shipped": true
+  },
+  "pk3_sha256": "0389b33a4d5fcc280ee1de435d7a8d8658d85422e2609ff3a48cba865da7c595",
+  "limits": "MAP01 gameplay tests and MAP02 placement smoke test; not a full campaign playthrough."
+}

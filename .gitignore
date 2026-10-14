@@ -1,0 +1,8 @@
+# Datos locales y generados al jugar.
+**/saves/
+*.zds
+crash.ini
+last-run.log
+__pycache__/
+*.py[cod]
+.venv/
